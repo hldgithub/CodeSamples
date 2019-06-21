@@ -1,0 +1,33 @@
+Program  Input
+ 
+ 
+The theater layout is made up of 1 or more rows.  Each row is made up of 1 or more sections separated by a space.
+After the theater layout, there is one empty line, followed by 1 or more theater requests.  The theater request is made up of a name followed by a space and the number of requested tickets.
+ 
+Sample input:
+6 6
+3 5 5 3
+4 6 6 4
+2 8 8 2
+6 6
+ 
+Smith 2
+Jones 5
+Davis 6
+Wilson 100
+Johnson 3
+Williams 4
+Brown 8
+Miller 12
+ 
+ 
+We provide the one file inside the Assignment directory called “TestFile” where we can provide the test input data.
+ 
+1.  Compile the code.
+
+2.  Provide the same data in “TestFile”.
+
+3.  Execute the java code
+
+a.  Java TheaterTicketSystem
+
